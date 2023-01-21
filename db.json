@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Wake Up",
+      "day": "18th Jan",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Prayer",
+      "day": "18th Jan",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Cooking",
+      "day": "18th Jan",
+      "reminder": true
+    }
+  ]
+}
